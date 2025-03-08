@@ -1,5 +1,5 @@
 === Block IPs for Gravity Forms ===
-Contributors: brightvesseldev, niloybrightvessel, knav777
+Contributors: brightvesseldev
 Tags: gravity, forms, gravity forms, security
 Requires at least: 4.0
 Tested up to: 6.3
